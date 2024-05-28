@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>965</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>723</ColumnWidth1><ColumnWidth2>193</ColumnWidth2><ColumnWidth3>48</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>114</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+    <Find-in-Files><ColumnWidth0>350</ColumnWidth0><ColumnWidth1>50</ColumnWidth1><ColumnWidth2>601</ColumnWidth2></Find-in-Files><PHYSBPWIN><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>#</item><item>Breakpoint</item></col-names><col-widths><item>15</item><item>400</item></col-widths></PHYSBPWIN><WATCH_1><expressions><item>Enc[3]</item><item>Motor[1]</item><item>testTM</item><item>State_Init_Axis</item><item>Motor[3].f1_init_axis</item><item>Motor[1].f1_init_axis</item><item>Motor[0].f1_init_axis</item><item>state_Man</item><item>ErrCodeAll</item><item>state_Man</item><item>Pack</item><item>StateSM</item><item>speedSM</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>169</item><item>150</item><item>100</item><item>375</item></col-widths></WATCH_1></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          
+          <Tab>
+            <Identity>TabID-15963-11621</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-14396-16768</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-10339-17663</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>2</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-27235-11615</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>AI3115_CB</ExpandedNode><ExpandedNode>AI3115_CB/EWARMv5</ExpandedNode><ExpandedNode>AI3115_CB/Output</ExpandedNode><ExpandedNode>AI3115_CB/User</ExpandedNode><ExpandedNode>AI3115_CB/stm32vldiscovery</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3><Tabs><Tab><Identity>TabID-27471-19575</Identity><TabName>Watch 1</TabName><Factory>WATCH_1</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3><Wnd4><Tabs><Tab><Identity>TabID-13135-25382</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd4></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane/><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-033a6f00><key>iaridepm.enu1</key></Toolbar-033a6f00></Sizes></Row0><Row1><Sizes><Toolbar-14ff08b0><key>debuggergui.enu1</key></Toolbar-14ff08b0></Sizes></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>494</Bottom><Right>188</Right><x>-2</x><y>-2</y><xscreen>1147</xscreen><yscreen>1184</yscreen><sizeHorzCX>896094</sizeHorzCX><sizeHorzCY>1649025</sizeHorzCY><sizeVertCX>148438</sizeVertCX><sizeVertCY>690808</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>494</Bottom><Right>205</Right><x>-2</x><y>-2</y><xscreen>1147</xscreen><yscreen>1184</yscreen><sizeHorzCX>896094</sizeHorzCX><sizeHorzCY>1649025</sizeHorzCY><sizeVertCX>161719</sizeVertCX><sizeVertCY>690808</sizeVertCY></Rect></Wnd3></Sizes></Row0><Row1><Sizes><Wnd4><Rect><Top>-2</Top><Left>203</Left><Bottom>494</Bottom><Right>311</Right><x>203</x><y>-2</y><xscreen>675</xscreen><yscreen>908</yscreen><sizeHorzCX>527344</sizeHorzCX><sizeHorzCY>1264624</sizeHorzCY><sizeVertCX>84375</sizeVertCX><sizeVertCY>690808</sizeVertCY></Rect></Wnd4></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>155</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>157</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>218663</sizeHorzCY><sizeVertCX>896094</sizeVertCX><sizeVertCY>1649025</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

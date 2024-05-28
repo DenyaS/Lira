@@ -1,0 +1,147 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=781826308
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[struct_types]
+Fmt0=DataTime_TypeDef-Day	3	0
+Fmt1=DataTime_TypeDef-Hour	3	0
+Fmt2=DataTime_TypeDef-Min	3	0
+Fmt3=DataTime_TypeDef-Month	3	0
+Fmt4=DataTime_TypeDef-Sec	3	0
+Fmt5=DataTime_TypeDef-Year	3	0
+Fmt6=TAnswerInfoDT-Board	3	0
+Fmt7=TAnswerInfoDT-Distance	3	0
+Fmt8=TAnswerInfoDT-ID_EndEvn	3	0
+Fmt9=TAnswerInfoDT-ID_StartEvn	3	0
+Fmt10=TAnswerInfoDT-Passengers	3	0
+Fmt11=TAnswerInfoDT-QtyStops	3	0
+Fmt12=TAnswerInfoDT-Time	3	0
+Fmt13=TAnswerInfoDT-TotalPasDistance	3	0
+Fmt14=TAnswerInfoDT-TotalPasTime	3	0
+Fmt15=TEvent-Crc	4	0
+Fmt16=TEvent-FailedPPD	3	0
+Fmt17=TEvent-FreeSeats	3	0
+Fmt18=TEvent-OccupSeats	3	0
+Fmt19=TEvent-Reserve_2	4	0
+Fmt20=TGoogleGPS-Lat_Degree	3	0
+Fmt21=TGoogleGPS-Lat_FrSec	3	0
+Fmt22=TGoogleGPS-Lat_Min	3	0
+Fmt23=TGoogleGPS-Lat_Sec	3	0
+Fmt24=TGoogleGPS-Lon_Degree1	3	0
+Fmt25=TGoogleGPS-Lon_Degree2	3	0
+Fmt26=TGoogleGPS-Lon_FrSec	3	0
+Fmt27=TGoogleGPS-Lon_Min	3	0
+Fmt28=TGoogleGPS-Lon_Sec	3	0
+Fmt29=TLocation-Latitude_FrPart	3	0
+Fmt30=TLocation-Latitude_IntPart	3	0
+Fmt31=TLocation-Longitude_FrPart	3	0
+Fmt32=TLocation-Longitude_IntPart1	3	0
+Fmt33=TLocation-Longitude_IntPart2	3	0
+Fmt34=TShowSeats-Total	3	0
+Fmt35=TSystemStatus-FailedPPD	4	0
+Fmt36=TSystemStatus-FreeSeats	4	0
+Fmt37=TSystemStatus-GoodPPD	4	0
+Fmt38=TSystemStatus-NonReadEvents	4	0
+Fmt39=TSystemStatus-OccupSeats	4	0
+Fmt40=TSystemStatus-Version	4	0
+Fmt41=_FLAGS-Flw	4	0
+[array_types]
+Fmt0=u32[32]	4	0
+Fmt1=u8[10]	3	0
+Fmt2=unsigned char[55]	4	0
+[watch_formats]
+Fmt0={W}0:AddrSaveData	4	0
+Fmt1={W}0:Address	4	0
+Fmt2={W}0:Adr	4	0
+Fmt3={W}0:Bt	3	0
+Fmt4={W}0:CP.WhereIs_1	1	0
+Fmt5={W}0:CS_line	4	0
+Fmt6={W}0:CentMonth	3	0
+Fmt7={W}0:CurrStatGPS.Speed	3	0
+Fmt8={W}0:CurrentAddrEventDF	4	0
+Fmt9={W}0:Dbg	3	0
+Fmt10={W}0:Dbg1	3	0
+Fmt11={W}0:FSEL_line	4	0
+Fmt12={W}0:I2C_EVENT	4	0
+Fmt13={W}0:IRO_line	4	0
+Fmt14={W}0:IRQ_line	4	0
+Fmt15={W}0:MISO_line	4	0
+Fmt16={W}0:Param[i]	4	0
+Fmt17={W}0:RF.TXBREG.HalfWord	4	0
+Fmt18={W}0:Radio.RemoteAddr	4	0
+Fmt19={W}0:Radio.Rnd.Rnd1	4	0
+Fmt20={W}0:Radio.Rnd.Rnd2	4	0
+Fmt21={W}0:SaveData[i]	4	0
+Fmt22={W}0:StartAddrEventDF	4	0
+Fmt23={W}0:SysStat.GoodPPD	3	0
+Fmt24={W}0:TmpAddr	4	0
+Fmt25={W}0:TmpAdrDefVals	4	0
+Fmt26={W}0:TmpAdrEvn	4	0
+Fmt27={W}0:TmpAdrUserVals	4	0
+Fmt28={W}0:TmpU32	4	0
+Fmt29={W}0:TmpVarGet	4	0
+Fmt30={W}0:TmpVarSet	4	0
+Fmt31={W}0:UARTx[1].Request	3	0
+Fmt32={W}0:adr	4	0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+Count=0
+SuppressDialog=0

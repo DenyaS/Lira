@@ -1,0 +1,72 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-607304261
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Interrupts]
+Enabled=0
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Bp0=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\src\uart.c}.307.5" 0 0 1 "" 0 "" 0
+Bp1=_ 0 "EMUL_CODE" "0x080023E2" 0 0 1 "" 0 "" 0
+Bp2=_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\src\main.c}.231.12" 0 0 1 "" 0 "" 0
+Count=3
+[Aliases]
+A0=_ "C:\My soft\stm32vld_projects\My projects\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_tim.c" ""
+A1=_ "C:\My soft\stm32vld_projects\My projects\Project\TEMA_ControlBlock_v.102\src\main.c" "C:\Projects\TEMA_ControlBlock_v.102\src\main.c"
+A2=_ "C:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\CMSIS\Include\core_cm3.h" "C:\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h"
+Count=3
+SuppressDialog=1

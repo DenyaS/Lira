@@ -1,0 +1,16 @@
+#MicroXplorer Configuration settings - do not modify
+#Sat Nov 30 16:55:32 EET 2013
+File.Version=1
+KeepUserPlacement=true
+Mcu.Family=STM32F1
+Mcu.IP0=I2C1
+Mcu.IPNb=1
+Mcu.Name=STM32F100R(8-B)Tx
+Mcu.Package=LQFP64
+Mcu.Pin0=PB8
+Mcu.Pin1=PB9
+Mcu.PinsNb=2
+PB8.Mode=I2C
+PB8.Signal=I2C1_SCL
+PB9.Mode=I2C
+PB9.Signal=I2C1_SDA
